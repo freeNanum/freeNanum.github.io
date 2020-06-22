@@ -12,10 +12,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/ic_launcher-192.png": "47e9a7872f28916ed7c43dbd3bac920d",
 "ic_launcher-48.png": "dcf02693592939bbca399667db039975",
-"index.html": "2f7b6f68707bb472b6262f3f8473da31",
-"/": "2f7b6f68707bb472b6262f3f8473da31",
-"main.dart.js": "389b2fc76c05280ab83e5fd749dfe1ec",
-"manifest.json": "a1a27379ac4ff38811cb15a7d4f7d83f"
+"index.html": "26845fbd04cf3b348a562b38bded4b50",
+"/": "26845fbd04cf3b348a562b38bded4b50",
+"main.dart.js": "50480a1413ce7d47bbf88993f8f68cc7",
+"manifest.json": "f0357366a56ad9408ba984c211c5c959"
 };
 
 self.addEventListener('activate', function (event) {
