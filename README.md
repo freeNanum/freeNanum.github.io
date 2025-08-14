@@ -14,6 +14,6 @@
 
 ## 무료나눔 앱 출시
 
-참고로 하기링크의 구글플레이에서 '무료나눔'앱을 다운받을 수 있습니다요~
+참고로 하기링크의 구글플레이에서 '무료나눔'앱을 다운받을 수 있습니다요.
 
 https://play.google.com/store/apps/details?id=com.opensupport.freenanum
